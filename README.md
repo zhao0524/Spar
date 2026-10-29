@@ -4,8 +4,6 @@ Mock debugging interviews: open a broken codebase in the browser, talk through t
 
 Spar started as a hackathon project. The original build plan is in [IMPLEMENTATION.md](IMPLEMENTATION.md). It is a historical spec, so parts of it (for example, calling Gemini directly) no longer match the code.
 
-This repository ([zhao0524/Spar](https://github.com/zhao0524/Spar)) mirrors the upstream project at [RohanGottipati/Spar](https://github.com/RohanGottipati/Spar).
-
 ## How it works
 
 1. **Pick a scenario.** The client loads the catalog from `GET /api/scenarios`, and the user chooses a difficulty and then a scenario.
