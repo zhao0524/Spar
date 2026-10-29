@@ -1,7 +1,7 @@
 {
   "name": "spar-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Spar API: Deepgram Voice Agent proxy and Backboard-powered interview report pipeline",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
